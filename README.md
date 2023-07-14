@@ -1,1 +1,2 @@
-# To-Do-list_JavaScript-with-source-code
+# todo-list
+A pretty TODO List with Javascript
